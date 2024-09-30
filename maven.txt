@@ -1,0 +1,17 @@
+mvnw
+  clean - Remove temporary directories and files.
+  default - Where the most useful goals live.
+  site - Where documentation is generated.
+
+[CLEAN]
+./mvnw clean
+  pre-clean - Hook for before cleaning.
+  clean - Does the actual cleaning.
+  post-clean - Hook for after cleaning.
+
+[DEFAULT]
+./mvnw ...
+  compile - Compiles your code into bytecode.
+  test - Runs your tests.
+  package - Creates a jar or war file.
+  verify - Runs checks & integration tests.
