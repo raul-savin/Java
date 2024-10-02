@@ -1,3 +1,6 @@
+START
+./mvnw spring-boot:run
+
 mvnw
   clean - Remove temporary directories and files.
   default - Where the most useful goals live.
