@@ -1,13 +1,13 @@
-package com.raul.one;
+package com.raul.ProjectOne;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OneApplication {
+public class ProjectOneApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OneApplication.class, args);
+		SpringApplication.run(ProjectOneApplication.class, args);
 	}
 
 }

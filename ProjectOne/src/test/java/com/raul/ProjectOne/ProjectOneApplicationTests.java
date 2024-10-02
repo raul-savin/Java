@@ -1,10 +1,10 @@
-package com.raul.one;
+package com.raul.ProjectOne;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OneApplicationTests {
+class ProjectOneApplicationTests {
 
 	@Test
 	void contextLoads() {
